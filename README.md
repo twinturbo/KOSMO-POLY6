@@ -1,7 +1,7 @@
 # KOSMO-POLY6
 KOSMO Format 6 Channel Polyphonic Synthesiser Master Repository 
 
-This repository acts as the master repository for information and documentation for my Poly6 Synthersiser based on an initial idea for a Raspbery Pi Pico DCO ( Digitaly Controlled Oscilator ) by "Polykit" 
+This repository acts as the master repository for information and documentation for my Poly6 Synthersiser based on an initial idea for a Raspbery Pi Pico DCO ( Digitaly Controlled Oscilator ) by "Polykit" AKA Jan Knipper [DCO](https://github.com/polykit/pico-dco). The PICO-DCO is largely a lift and shift of his work.
 
 The designs are in the format for modular synth created by "Look Mum No Computer" called the Kosmo format, these are 20CM High and multiples of 2.5CM wide depending on the design. 
 
