@@ -22,20 +22,13 @@ Modules will be released as and when they are designed, built and tested. Module
 
 ## Key features
 
-- 
-- 
-- 
-- 
-
-## Schematics and PCB
-Schematics and PCB are in KICAD format.
-
-- Front Panel PCB ....
-- Jack PCB 
-
-Gerber files for the PCB can be found [here](HARDWARE\PCB-PRINTS).
+- 6 Channel MIDI Polyphonic Oscilators
+- Modular Design 
+- Ribbon Cable Interconncet
+- Expandability
 
 ## Pictures
+
 
 
 ## References
