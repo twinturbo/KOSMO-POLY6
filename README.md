@@ -16,6 +16,9 @@ Modules will be released as and when they are designed, built and tested. Module
 - KOSMO-POLY6-CONTROLS - (TBD).
 - KOSMO-POLY6 Filter - (TBD).
 - KOSMO-POLY6-PG Programmer - (TBD)
+- KOSMO-POLY6-MetricST-Front-Panel - (TBD)
+
+![KOSMO-POLY6-PICO](/Documentation/MODULE-FP.png)
 
 ## Key features
 
