@@ -5,7 +5,7 @@ This repository acts as the master repository for information and documentation 
 
 The designs are in the format for modular synth created by "Look Mum No Computer" called the Kosmo format, these are 20CM High and multiples of 2.5CM wide depending on the design. 
 
-Modules will be released as and when they are designed, built and tested. Modules on the list below will build towoard a fully fleged 6 voive MIDI Synth.
+Modules will be released as and when they are designed, built and tested. Modules on the list below will build towoard a fully fleged 6 voice MIDI Synth.
 
 - KOSMO-POLY6-PICO-DCO - Complete [ DCO ](https://github.com/twinturbo/KOSMO-POLY6-PICO-DCO)
 - KOSMO-POLY6-DRUID-DCO -(TBD).
