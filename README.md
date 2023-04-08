@@ -10,9 +10,9 @@ Modules will be released as and when they are designed, built and tested. Module
 - KOSMO-POLY6-PICO-DCO - Complete [ DCO ](https://github.com/twinturbo/KOSMO-POLY6-PICO-DCO)
 - KOSMO-POLY6-DRUID-DCO -(TBD).
 - KOSMO-POLY6-JACKS - Complete. [ JACKS ](https://github.com/twinturbo/KOSMO-POLY6-JACKS)
-- KOSMO-POLY6-MIX - In design.
-- KOSMO-POLY6-ADSR - In Production with JLCPCB.
-- KOSMO-POLY6-VCA - In design.
+- KOSMO-POLY6-MIX - In Production with JLCPCB.
+- KOSMO-POLY6-ADSR - Finalising Build.
+- KOSMO-POLY6-VCA - In design. [ FORUM ](https://lookmumnocomputer.discourse.group/t/kosmo-poly6-vca/6066)
 - KOSMO-POLY6-CONTROLS - (TBD).
 - KOSMO-POLY6 Filter - (TBD).
 - KOSMO-POLY6-PG Programmer - (TBD)
