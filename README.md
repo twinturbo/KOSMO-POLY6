@@ -27,6 +27,13 @@ Modules will be released as and when they are designed, built and tested. Module
 - Ribbon Cable Interconncet
 - Expandability
 
+## Version Numbering
+  Vx.y.z
+  
+  - x major version numbers starting 0, denotes a significant design version
+  - y reworks within a design version. Odd numbers should be considered WiP, Even are Releases. 
+  - z minor fixes.
+
 ## Pictures
 
 
