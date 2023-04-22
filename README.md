@@ -8,23 +8,45 @@ The designs are in the format for modular synth created by "Look Mum No Computer
 Modules will be released as and when they are designed, built and tested. Modules on the list below will build towoard a fully fleged 6 voice MIDI Synth.
 
 - KOSMO-POLY6-PICO-DCO 
-  - Complete 
+  - STATUS - Complete 
   - [GIT](https://github.com/twinturbo/KOSMO-POLY6-PICO-DCO)
   - [Forum](https://https://lookmumnocomputer.discourse.group/t/kosmoing-the-polykit-dco/5878)
-- KOSMO-POLY6-DRUID-DCO -(TBD).
+- KOSMO-POLY6-DRUID-DCO 
+  - STATUS - To be designed
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-DRUID-DCO)
+  - [Forum](https://lookmumnocomputer.discourse.group)
 - KOSMO-POLY6-JACKS 
-  - Complete
+  - STATUS Complete
   - [GIT](https://github.com/twinturbo/KOSMO-POLY6-JACKS)
   - [Forum](https://lookmumnocomputer.discourse.group/t/kosmoing-the-polykit-dco/5878)
-- KOSMO-POLY6-MIX - In Production with JLCPCB.
-- KOSMO-POLY6-ADSR - Finalising Build.
-- KOSMO-POLY6-VCA - In design. [ FORUM ](https://lookmumnocomputer.discourse.group/t/kosmo-poly6-vca/6066)
-- KOSMO-POLY6-CONTROLS - (TBD).
-- KOSMO-POLY6 Filter - (TBD).
-- KOSMO-POLY6-PG Programmer - (TBD)
+- KOSMO-POLY6-MIX 
+  - STAUS - Building , trouble shooting and revising.
+  - [GIT] ...
+  - [Forum](https://lookmumnocomputer.discourse.group/t/kosmo-poly6-mix-voltage-controlled-x-fade-crossfade/5979))
+- KOSMO-POLY6-ADSR
+  - STATUS - Tested , Final build required. 
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-ADSR)
+  - [Forum](https://lookmumnocomputer.discourse.group/t/reworked-version-of-the-polykit-adsr/5892)
+- KOSMO-POLY6-VCA - 
+  - STATUS - BUILDING, trouble shooting, revising.
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-ADSR)
+  - [Forum](https://lookmumnocomputer.discourse.group/t/kosmo-poly6-vca/6066)
+- KOSMO-POLY6-CONTROLS
+  - STATUS - To be designed
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-CONTROLS)
+  - [Forum](https://lookmumnocomputer.discourse.group)
+- KOSMO-POLY6 Filter
+  - STATUS - To be designed
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-FILTER)
+  - [Forum](https://lookmumnocomputer.discourse.group)
+- KOSMO-POLY6-PG Programmer
+  - STATUS - To be designed
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-PG)
+  - [Forum](https://lookmumnocomputer.discourse.group)
 - KOSMO-POLY6-MetricST-Front-Panel - (TBD)
-
-![KOSMO-POLY6-PICO](/Documents/MODULE-FP.png)
+  - STATUS - To be designed
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-MSTFP)
+  - [Forum](https://lookmumnocomputer.discourse.group)
 
 ## Key features
 
