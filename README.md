@@ -7,9 +7,15 @@ The designs are in the format for modular synth created by "Look Mum No Computer
 
 Modules will be released as and when they are designed, built and tested. Modules on the list below will build towoard a fully fleged 6 voice MIDI Synth.
 
-- KOSMO-POLY6-PICO-DCO - Complete [ DCO ](https://github.com/twinturbo/KOSMO-POLY6-PICO-DCO)
+- KOSMO-POLY6-PICO-DCO 
+  - Complete 
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-PICO-DCO)
+  - [Forum](https://https://lookmumnocomputer.discourse.group/t/kosmoing-the-polykit-dco/5878)
 - KOSMO-POLY6-DRUID-DCO -(TBD).
-- KOSMO-POLY6-JACKS - Complete. [ JACKS ](https://github.com/twinturbo/KOSMO-POLY6-JACKS)
+- KOSMO-POLY6-JACKS 
+  - Complete
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-JACKS)
+  - [Forum](https://lookmumnocomputer.discourse.group/t/kosmoing-the-polykit-dco/5878)
 - KOSMO-POLY6-MIX - In Production with JLCPCB.
 - KOSMO-POLY6-ADSR - Finalising Build.
 - KOSMO-POLY6-VCA - In design. [ FORUM ](https://lookmumnocomputer.discourse.group/t/kosmo-poly6-vca/6066)
