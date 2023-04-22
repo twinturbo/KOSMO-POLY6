@@ -37,7 +37,7 @@ Each repositiory also contanis a front panel design.
   - [Forum](https://lookmumnocomputer.discourse.group/t/reworked-version-of-the-polykit-adsr/5892)
 - KOSMO-POLY6-VCA - 
   - STATUS - BUILDING, trouble shooting, revising.
-  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-ADSR) PRIVATE
+  - [GIT](https://github.com/twinturbo/KOSMO-POLY6-VCA) PRIVATE
   - [Forum](https://lookmumnocomputer.discourse.group/t/kosmo-poly6-vca/6066)
 - KOSMO-POLY6-CONTROLS
   - STATUS - To be designed
