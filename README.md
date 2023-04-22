@@ -79,6 +79,9 @@ Each repositiory also contanis a front panel design.
 ## Pictures
 
 
+![KOSMO-POLY6-PICO SCHEMATIC ](/Documentation/poly6.png)
+
+
 
 ## References
 - The Original DCO Project [ Original ](https://github.com/polykit/pico-dco)
