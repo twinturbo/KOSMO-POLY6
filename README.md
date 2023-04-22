@@ -79,7 +79,7 @@ Each repositiory also contanis a front panel design.
 ## Pictures
 
 
-![KOSMO-POLY6-PICO SCHEMATIC ](/Documents/poly6.png)
+![Work In Progress](/Documents/poly6.jpeg)
 
 
 
