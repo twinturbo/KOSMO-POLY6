@@ -23,6 +23,7 @@ Each repositiory also contanis a front panel design.
   - STATUS - To be designed
   - [GIT](https://github.com/twinturbo/KOSMO-POLY6-DRUID-DCO) PRIVATE
   - [Forum](https://lookmumnocomputer.discourse.group)
+  - [altcode](https://fitzgreyve2.blogspot.com/p/fitzgreyve-alternate-software.html?m=1)
 - KOSMO-POLY6-JACKS 
   - STATUS Complete
   - [GIT](https://github.com/twinturbo/KOSMO-POLY6-JACKS)
